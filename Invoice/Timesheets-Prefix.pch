@@ -1,0 +1,21 @@
+//
+// Prefix header for all source files of the 'Invoice' target in the 'Invoice' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+	#import <UIKit/UIKit.h>
+	#import <Foundation/Foundation.h>
+
+#define  APPSTORE_LINK [NSURL URLWithString:[NSString stringWithFormat:@"http://itunes.apple.com/app/id%@", @"896501868"]]
+
+#define app_version 5
+#define free_version 0
+#define csv_export_id @"CSV_Export_09"
+
+#endif

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4D72AAB576DA40E869372F317CB8371E0F45DBE1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4D72AAB576DA40E869372F317CB8371E0F45DBE1" : 0,
+    "EEF2C0349CFD2EC72A6EFCFBE96B3A79D864E712" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8213460D-8066-4FA2-A73F-D2689810BDD3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4D72AAB576DA40E869372F317CB8371E0F45DBE1" : "InvoiceMakerPro\/",
+    "EEF2C0349CFD2EC72A6EFCFBE96B3A79D864E712" : "invoice"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Invoice",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Invoice.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/RikiU\/InvoiceMakerPro.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4D72AAB576DA40E869372F317CB8371E0F45DBE1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/dima_nosulich\/invoice.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EEF2C0349CFD2EC72A6EFCFBE96B3A79D864E712"
+    }
+  ]
+}
